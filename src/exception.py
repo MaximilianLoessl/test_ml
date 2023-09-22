@@ -1,5 +1,5 @@
 import sys 
-import logging
+from src.logger import logging
 
  #whenever error - own custom message, error detail is in sys
  # function of how message will look like with respect to custom exception
